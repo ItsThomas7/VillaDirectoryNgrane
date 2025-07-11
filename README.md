@@ -19,6 +19,7 @@ Sends inquiry via EmailJS.
 Shows confirmation after submission.
 
 #How to Run
+
 Clone the repository:
 git clone https://github.com/ItsThomas7/VillaDirectoryNgrane.git cd VillaDirectory
 
