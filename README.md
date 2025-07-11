@@ -1,11 +1,12 @@
-Villa Directory – Sicily Luxury Villas
+#Villa Directory – Sicily Luxury Villas
 This is a simple web application for browsing and inquiring about luxury villas in Sicily.
 
-Features
+#Features
 Villa Directory Page:
 
 List of villas showing name, area, short description, price per night, and photo.
 Footer
+
 Villa Detail Page:
 
 Gallery of all villa photos.
@@ -16,9 +17,10 @@ Inquiry Form:
 Includes fields for name, email, phone (optional), arrival/departure dates, and message.
 Sends inquiry via EmailJS.
 Shows confirmation after submission.
-How to Run
+
+#How to Run
 Clone the repository:
-git clone https://github.com/ItsThomas7/VillaDirectory.git cd VillaDirectory
+git clone https://github.com/ItsThomas7/VillaDirectoryNgrane.git cd VillaDirectory
 
 Install dependencies:
 npm install
@@ -34,7 +36,7 @@ npm run dev
 
 Then open http://localhost:3000 in your browser.
 
-Technologies Used
+#Technologies Used
 Next.js
 Google Maps embed
 React Datepicker (instead of Preline Datepicker)
